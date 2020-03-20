@@ -1,1 +1,4 @@
-This file is created to try my first initialize of a folder as a git repository.
+This file is created to try my first initialize of a folder (to check a 2 branch changes) as a git repository.
+textTextText
+
+text
